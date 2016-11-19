@@ -1,0 +1,52 @@
+﻿Выполняется установка сборки 'C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.InstallLog
+   assemblypath = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe
+Устанавливается служба CustomService...
+Служба CustomService успешно установлена.
+Создается исходный EventLog CustomService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.InstallLog
+   assemblypath = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe
+Выполняется удаление сборки 'C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.InstallLog
+   assemblypath = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe
+Выполняется удаление источника EventLog CustomService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.InstallLog
+   assemblypath = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe
+Выполняется удаление источника EventLog CustomService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.InstallLog
+   assemblypath = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe
+Выполняется удаление источника EventLog CustomService.
+Выполняется удаление службы CustomService из системы...
+Служба CustomService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.InstallLog
+   assemblypath = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe
+Устанавливается служба CustomService...
+Служба CustomService успешно установлена.
+Создается исходный EventLog CustomService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.InstallLog
+   assemblypath = C:\Users\Artem\Documents\Visual Studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe

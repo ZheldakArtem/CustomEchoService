@@ -1,0 +1,9 @@
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe.config
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.exe
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\bin\Debug\CustomService.pdb
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\obj\Debug\CustomService.csprojResolveAssemblyReference.cache
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\obj\Debug\CustomService.CustomService.resources
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\obj\Debug\CustomService.ProjectInstaller.resources
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\obj\Debug\CustomService.csproj.GenerateResource.Cache
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\obj\Debug\CustomService.exe
+c:\users\artem\documents\visual studio 2015\Projects\CustomService\CustomService\obj\Debug\CustomService.pdb
